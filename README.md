@@ -1,6 +1,7 @@
 ## First-Steps-with-C-Sharp
 
 Resources:
+
 Visual Studio Code: https://code.visualstudio.com/
 
 .NET Core SDK - https://dotnet.microsoft.com/download
