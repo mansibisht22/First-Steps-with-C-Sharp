@@ -1,12 +1,19 @@
-## First-Steps-with-C-Sharp
+# First-Steps-with-C-Sharp
+![alt text](https://www.linkpicture.com/q/poster_4.png)
+## 📝Resources:
 
-Resources:
+-  Visual Studio Code: https://code.visualstudio.com/
+-  .NET Core SDK - https://dotnet.microsoft.com/download
+-  The C# extension - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+-  F# extension https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp
+-  C# with MS-Learn: https://docs.microsoft.com/en-us/learn/
 
-Visual Studio Code: https://code.visualstudio.com/
+## 🎯Learning Objectives of The Event:
 
-.NET Core SDK - https://dotnet.microsoft.com/download
+1. Beginner level understanding with creating literal values and declare variables of basic data types like string, int, and decimal.
+2. Perform mathematical operations on numeric values
+3. Observe implicit type conversion between strings and numeric values
+4. Temporarily convert one data type into another
 
-The C# extension - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
-
-The F# extension https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp
+## 🎥Event Recording:
 
