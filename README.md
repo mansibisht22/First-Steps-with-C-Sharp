@@ -1,5 +1,5 @@
-# First-Steps-with-C-Sharp
-![alt text](https://www.linkpicture.com/q/poster_4.png)
+#  ✨First-Steps-with-C-Sharp
+![alt text](https://www.linkpicture.com/q/poster_5.png)
 ## 📝Resources:
 
 -  Visual Studio Code: https://code.visualstudio.com/
