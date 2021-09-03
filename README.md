@@ -15,6 +15,4 @@
 3. Observe implicit type conversion between strings and numeric values
 4. Temporarily convert one data type into another
 
-## 🎥Event Recording:
-Couldn't attend the event? Worry not, find attached the link of the event recording!
 
