@@ -16,4 +16,5 @@
 4. Temporarily convert one data type into another
 
 ## 🎥Event Recording:
+Couldn't attend the event? Worry not, find attached the link of the event recording!
 
